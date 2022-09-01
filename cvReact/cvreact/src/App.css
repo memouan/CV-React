@@ -84,6 +84,27 @@ p {
   background-color: var(--sidebar-bg-color);
 }
 
+/* icon */
+.circle {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background-color: var(--circle-color);
+}
+
+.circle-plain {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border-radius: 50%;
+  background-color: var(--circle-color);
+}
+
+.circle-plain
+
 .main {
   padding:1.5rem;
 }
